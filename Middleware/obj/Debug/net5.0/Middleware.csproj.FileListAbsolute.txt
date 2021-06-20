@@ -1,0 +1,5 @@
+C:\Users\Asus PC\Desktop\github\Middleware\obj\Debug\net5.0\Middleware.csproj.AssemblyReference.cache
+C:\Users\Asus PC\Desktop\github\Middleware\obj\Debug\net5.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus PC\Desktop\github\Middleware\obj\Debug\net5.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\Asus PC\Desktop\github\Middleware\obj\Debug\net5.0\Middleware.AssemblyInfo.cs
+C:\Users\Asus PC\Desktop\github\Middleware\obj\Debug\net5.0\Middleware.csproj.CoreCompileInputs.cache

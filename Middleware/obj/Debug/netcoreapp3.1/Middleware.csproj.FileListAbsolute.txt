@@ -1,0 +1,9 @@
+C:\Users\Asus PC\Desktop\github\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+C:\Users\Asus PC\Desktop\github\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+C:\Users\Asus PC\Desktop\github\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+C:\Users\Asus PC\Desktop\github\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.AssemblyReference.cache
+C:\Users\Asus PC\Desktop\github\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+C:\Users\Asus PC\Desktop\github\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+C:\Users\Asus PC\Desktop\github\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\Asus PC\Desktop\github\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+C:\Users\Asus PC\Desktop\github\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
